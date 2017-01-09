@@ -15,5 +15,5 @@ applications:
    - cloudantNoSQLDB-service
   name: watson-textbot
   command: npm start
-  path: .eu-gb.mybluemix.net/
+  path: https://watson-textbot.eu-gb.mybluemix.net
   memory: 512M
